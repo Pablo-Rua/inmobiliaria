@@ -1,0 +1,131 @@
+.bienv{
+	background-color: skyblue;
+}
+.want{
+	background-color: lightblue;
+}
+.btn-cancel{
+	background-color: indianred;
+	text-decoration: none;
+	color: black;
+	font-weight: 600;
+	border-radius: 5px
+}
+.btn-save{
+	background-color: green;
+	font-weight: 600;
+	border-radius: 5px;
+}
+form#regisUser{
+	background-color: lightsteelblue;
+	width: 600px;
+	margin: 0 auto;
+	padding: 0 20px 20px 20px;
+	border: 3px solid black;
+	background-position: center;
+}
+form#regisHouse{
+	background-color: lightsteelblue;
+	width: 600px;
+	margin: 0 auto;
+	padding: 0 20px 20px 20px;
+	border: 3px solid black;
+	background-position: center;
+}
+.form-label{
+	font-weight: bold;
+}
+.container{
+	background-color: powderblue;
+	width: 600px;
+	margin: 0 auto;
+	padding: 0 20px 20px 20px;
+	border: 3px solid black;
+	background-position: center;
+}
+.container-2{
+	display: flex;
+	background-color: powderblue;
+	width: 500px;
+	margin: 0 auto;
+	padding: 0 20px 20px 20px;
+	border: 3px solid black;
+	justify-content: auto;
+	margin-top: 20px;
+}
+.container-1{
+	display: flex;
+	background-color: powderblue;
+	width: 500px;
+	margin: 0 auto;
+	padding: 0 20px 20px 20px;
+	border: 3px solid black;
+	justify-content: auto;
+	margin-top: 20px;
+}
+.label-lista{
+	font-weight: bold;
+}
+.editBtn{
+	text-decoration: none;
+	color: black;
+}
+.deleteBtn{
+	text-decoration: none;
+	color: black;
+}
+div.botones{
+	position: relative;
+	margin: auto;
+	padding: auto;
+}
+.cancelBtn{
+	text-decoration: none;
+	color: black;
+	font-weight: 600;
+}
+button.btn-secondary{
+	border-radius: 5px;
+}
+.listaBtn{
+	text-decoration: none;
+	color: white;
+	padding: 15px;
+
+}
+.listBtn{
+	margin-top: 10px;
+	padding: 10px;
+
+}
+button.btn-primary{
+	border-radius: 5px;
+	height: 56px;
+}
+button.btn-info{
+	border-radius: 5px;
+	height: 56px;
+}
+button.btn-danger{
+	border-radius: 5px;
+	height: 56px;
+}
+center{
+	margin-top: 10px;
+}
+.registerBtn{
+	text-decoration: none;
+	color: black;
+	font-weight: 600;
+	border-radius: 5px;
+}
+button.btn-warning{
+	border-radius: 5px;
+}
+.tituLU{
+	background-color: lightblue;
+}
+button.btn-regis{
+	background-color: lightgrey;
+	border-radius: 5px;
+}
